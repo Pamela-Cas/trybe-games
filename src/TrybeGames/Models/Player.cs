@@ -2,7 +2,7 @@ namespace TrybeGames;
 
 public class Player
 {
-    public int Id;
+    public int Id = 0;
 
     public string Name = "";
 
