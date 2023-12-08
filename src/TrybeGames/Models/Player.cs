@@ -20,3 +20,4 @@ public class Player
         GamesOwned.Add(gameToBuy.Id);
     }
 }
+// iniciando o projeto
